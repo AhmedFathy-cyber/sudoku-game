@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1693923345 source:c:\users\aawad08\desktop\sudoku\array_2d.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+
+1693903738 source:c:\users\aawad08\desktop\sudoku\main.c
+	<stdio.h>
+	<stdlib.h>
+
